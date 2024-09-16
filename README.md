@@ -3,6 +3,8 @@ It employs this system identify and recognize students' faces in real-time. When
 
 The system is designed to function within a specific time window, operating only between 9:30 AM and 10:00 AM, which helps ensure accurate and timely attendance recording. After the session concludes, the attendance and emotion detection data are saved in an Excel file, complete with timestamps for each student identified. This organization makes it easy to access attendance records for future use.
 
+Supported Python Version : Python 3.7.16
+
 Run :  Attendence_System.py
 https://github.com/eldhoeliaszachariah/Attendence-System-with-Emotion/blob/main/Attendence_System.py
 
